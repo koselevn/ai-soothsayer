@@ -1,1 +1,15 @@
 .env
+
+# IDE
+.idea/
+
+# Python virtual environment
+venv/
+
+# Логи, файлы истории и прочее
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+user_history.txt
